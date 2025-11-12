@@ -15,12 +15,12 @@ Here is a preview of the application's user interface. The user enters the appli
 ### Prediction: Approved
 A demonstration of a successful loan application prediction.
 
-![Approved Case](./approved_case.png)
+![Approved Case](./Approved_case.png)
 
 ### Prediction: Rejected
 A demonstration of an unsuccessful loan application prediction.
 
-![Rejected Case](./rejected_case.png)
+![Rejected Case](./Rejected_case.png)
 
 ---
 
