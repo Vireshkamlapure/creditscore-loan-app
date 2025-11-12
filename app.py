@@ -9,7 +9,7 @@ except FileNotFoundError:
     st.error("The required model is not found")
     st.stop()
 except Exception as e:
-    st.error("An error occured : ",e)
+    st.error("An error occured : {e}")
     st.stop()
 
 #2.UI 
