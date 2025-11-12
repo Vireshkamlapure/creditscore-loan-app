@@ -61,7 +61,7 @@ Want to run this project on your own machine?
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/creditscore-loan-app.git](https://github.com/YOUR_USERNAME/creditscore-loan-app.git)
+    git clone https://github.com/Vireshkamlapure/creditscore-loan-app.git
     cd creditscore-loan-app
     ```
     *(Replace `YOUR_USERNAME` with your GitHub username)*
