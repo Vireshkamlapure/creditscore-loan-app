@@ -64,8 +64,7 @@ Want to run this project on your own machine?
     git clone https://github.com/Vireshkamlapure/creditscore-loan-app.git
     cd creditscore-loan-app
     ```
-    *(Replace `YOUR_USERNAME` with your GitHub username)*
-
+   
 2.  **Create and activate a virtual environment:**
     ```bash
     python -m venv venv
