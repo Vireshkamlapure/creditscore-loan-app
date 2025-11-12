@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Original data (not needed for the app)
+train.csv
+test.csv
+
+# OS-specific
+.DS_Store
